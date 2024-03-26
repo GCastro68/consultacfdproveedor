@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-<!--Hoja de estilos del calendario -->
+<!--Hoja de estilos del calendario - PROBAR CRA de BITO -->
       <!--link rel="stylesheet" type="text/css" media="all" href="calendarionuevo/calendar-green.css" title="win2k-cold-1" /-->
 <!-- DW6 -->
 
